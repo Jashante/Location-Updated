@@ -1,4 +1,4 @@
-# Location-Updated
-import pandas as pd 
-s = pd.Series([1,2,3])
-s.describe()
+# total price of all applices in 2020
+appliances prices = ( 591023.19,9825.50)
+total price = sum (appliances prices)
+print (total price)
